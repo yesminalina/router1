@@ -1,0 +1,27 @@
+#root {
+  background-image: linear-gradient(to top left, #3AA6B9, #FF9EAA, #C1ECE4);
+  height: 100vh;
+  font-family: "Grandstander", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+}
+
+.btn {
+  background-color: #3AA6B9;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #C1ECE4;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 5px;
+}
